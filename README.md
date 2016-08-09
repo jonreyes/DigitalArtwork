@@ -5,6 +5,7 @@
 ![alt text](https://github.com/jonreyes/DigitalArtwork/blob/master/Porkerrs/porkerrs_new.png "Porkerr's New Logo")
 * Remastered old logo
 ![alt text](https://github.com/jonreyes/DigitalArtwork/blob/master/Porkerrs/porkerrs_old.png "Porkerr's Old Logo")
+![alt text](https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/10414565_289752831198776_4517615636806223209_n.jpg?oh=5ad5f276700bfa1c4dbbe90a00860aba&oe=585C10D3 "Porkerr's Original")
 * Sample promotional / advertisement banner
 ![alt text](https://github.com/jonreyes/DigitalArtwork/blob/master/Porkerrs/porkerrs_banner.jpg "Porkerr's Sample Promo Banner")
 
