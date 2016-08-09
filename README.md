@@ -19,5 +19,5 @@
 ![alt text](https://github.com/jonreyes/DigitalArtwork/blob/master/Yellow%20Car/yellow_car.png "Yellow Car")
 ### AniMe
 ### Creative Google Logo
-![alt text](https://github.com/jonreyes/DigitalArtwork/blob/master/Creative%20Google%20Logo/google_donut_logo.png "Google Donut/Pary Logo)
+![alt text](https://github.com/jonreyes/DigitalArtwork/blob/master/Creative%20Google%20Logo/google_donut_logo.png "Google Donut/Party Logo")
 
